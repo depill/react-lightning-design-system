@@ -53,7 +53,7 @@
     "@kadira/storybook": "^2.35.3",
     "@kadira/storybook-addon-knobs": "^1.7.1",
     "@kadira/storyshots": "^2.1.0",
-    "@salesforce-ux/design-system": "^2.2.1",
+    "@salesforce-ux/design-system": "^2.3.1",
     "babel-cli": "^6.18.0",
     "babel-core": "^6.18.0",
     "babel-eslint": "^7.0.0",

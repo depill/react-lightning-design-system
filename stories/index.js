@@ -1,6 +1,7 @@
 import './BadgeStories';
 import './BreadCrumbsStories';
 import './ButtonStories';
+import './DockedComposerStories';
 import './DropdownButtonStories';
 import './ButtonGroupStories';
 import './DatepickerStories';

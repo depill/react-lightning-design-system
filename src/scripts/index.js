@@ -36,6 +36,10 @@ import Grid, { Row, Col } from './Grid';
 import Notification, { Alert, Toast } from './Notification';
 import MediaObject from './MediaObject';
 import Text from './Text';
+import DockedComposer, {
+  DockedComposerHeader,
+  DockedComposerFooter
+} from './DockedComposer';
 import PageHeader, {
   PageHeaderHeading,
   PageHeaderHeadingTitle,
@@ -75,6 +79,11 @@ export {
   Container, Grid, Row, Col,
   Text,
   MediaObject,
+
+  DockedComposer,
+  DockedComposerHeader,
+  DockedComposerFooter,
+
 
   PageHeader,
   PageHeaderHeading,
